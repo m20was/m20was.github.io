@@ -5,6 +5,11 @@
 
 Detail-oriented professional with an MBA in Business Analytics and a B.E. in Information Technology. Passionate about uncovering data-driven insights, building robust models, and developing scalable applications. Combining strong analytical skills with a solid technical foundation in Python, Java, SQL, and Power BI to drive business growth and operational efficiency.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-light.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/m20was/m20was/output/pacman-contribution-graph-dark.svg">
+</picture>
 ---
 
 # 💻 Tech Stack:
